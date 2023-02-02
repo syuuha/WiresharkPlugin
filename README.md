@@ -4,6 +4,7 @@
 2. 增加参考 https://github.com/volvet/h264extractor
 3. 增加1722_h264.lua用于解析1722/AVTP包中的H264编码数据。
 4. 增加udprmu2.lua用于Marvell交换机RMU dissector. 保密.
+5. 增加UdpNM.lua用于UDP-NM dissector
 
 
 ============================================
